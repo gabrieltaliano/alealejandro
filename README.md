@@ -26,3 +26,4 @@ Crear una app de notas
 * Utilizar componentes funcionales
 * Estilizar con CSS
 * Utilizar localStorage para guardar las notas.
+* Crear un componente Modal para crear notas nuevas o modificar las existentes.
